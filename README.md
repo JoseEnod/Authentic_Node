@@ -1,3 +1,3 @@
-# Authentic_Node
+# Node authentication
 
 Authentication system in node js with mongo db
